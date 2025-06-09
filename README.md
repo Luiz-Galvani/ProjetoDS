@@ -1,37 +1,57 @@
-# Sistema de Tickets de Suporte
+# 🎟️ Sistema de Tickets de Suporte
 
-## Alunos
+## 👥 Alunos
 - Rômulo Moreira Moreto Guisso  
 - Kayky José Kenji Ribeiro  
-- Luiz Alexandre Nishiyama Galvani  
+- Luiz Alexandre Nishiyama Galvani
 
-## Descrição
-Sistema para gerenciamento de tickets de suporte técnico, permitindo abertura, acompanhamento, atribuição e organização de chamados. Inclui notificações automáticas, controle de acesso, histórico de interações e geração de relatórios.
+## 🧑‍🏫 Orientador 
+- Tiago Dutra Galvao
 
-## Metodologias
-- Modelagem de processos com BPMN  
-- Gestão ágil com Scrum  
+## 📋 Descrição do Projeto
+Este projeto desenvolve um sistema completo para **gerenciamento de tickets de suporte técnico**, permitindo:  
+- Abertura, acompanhamento e resolução de chamados  
+- Atribuição automática ou manual dos tickets a técnicos  
+- Notificações automáticas por e-mail para manter usuários e técnicos informados  
+- Controle de acesso com níveis de permissão  
+- Armazenamento do histórico completo de interações  
+- Geração de relatórios de desempenho e cumprimento de SLAs  
 
-## Diagramas UML
-- Atividades  
-- Casos de Uso  
-- Estados  
-- Sequência  
-- Classes  
+O sistema visa otimizar o atendimento, aumentar a transparência e garantir a satisfação dos usuários.
 
-## Tecnologias Consideradas
+## 🚀 Metodologias Utilizadas
+- **BPMN:** Modelagem clara e estruturada dos processos de negócio  
+- **Scrum:** Gestão ágil com ciclos iterativos (sprints), entregas incrementais e colaboração contínua  
 
-### 1. Stack MERN (JavaScript Fullstack)
-- **MongoDB:** Banco NoSQL orientado a documentos  
-- **Express.js:** Framework web para Node.js  
-- **React.js:** Biblioteca front-end para interfaces reativas  
-- **Node.js:** Ambiente JavaScript para back-end  
+## 📊 Diagramas UML Implementados
+- Diagrama de Atividades  
+- Diagrama de Casos de Uso  
+- Diagrama de Estados  
+- Diagrama de Sequência  
+- Diagrama de Classes  
 
-### 2. Stack Django + PostgreSQL
-- **Django:** Framework back-end robusto em Python  
-- **PostgreSQL:** Banco relacional poderoso  
-- **HTML/CSS/JavaScript:** Tecnologias front-end básicas  
-- **Bootstrap ou React:** Para estilização e interatividade  
+## 🛠️ Tecnologias Consideradas
 
-## Observação
-Ambas as stacks atendem aos requisitos do sistema. A escolha final será baseada no conhecimento da equipe, que possui experiência dividida entre essas tecnologias.
+### 1️⃣ JavaScript Fullstack
+- **MongoDB:** Banco de dados NoSQL flexível e escalável  
+- **Express.js:** Framework leve para Node.js para APIs RESTful  
+- **React.js:** Biblioteca front-end para interfaces dinâmicas e responsivas  
+- **Node.js:** Ambiente para back-end em JavaScript, eficiente e escalável  
+
+### 2️⃣ Django + PostgreSQL
+- **Django:** Framework Python robusto, seguro e rápido para back-end  
+- **PostgreSQL:** Banco relacional poderoso com recursos avançados  
+- **HTML/CSS/JavaScript:** Tecnologias básicas para front-end  
+- **Bootstrap ou React:** Para uma interface estilizada e interativa  
+
+## 🤝 Considerações Finais
+Ambas as stacks atendem perfeitamente aos requisitos do sistema.  
+A decisão final será baseada no alinhamento com o conhecimento da equipe, que possui experiência dividida entre essas tecnologias.
+
+---
+
+💡 **Este projeto visa entregar um sistema eficiente, seguro e escalável, utilizando dos conceitos aprendidos na disciplina de Design de Software, sendo eles:**
+- Metodologia Ágil (Scrum)
+- BPMN
+- UML
+- Análise para levantamento de requisitos
